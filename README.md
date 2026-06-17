@@ -13,8 +13,6 @@ I specialize in building workflow automation systems, e-commerce platforms, heal
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mojnouahmedcse&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mojnouahmedcse&layout=compact)
-
 ---
 
 ## 💻 Technical Skills
@@ -42,6 +40,17 @@ I specialize in building workflow automation systems, e-commerce platforms, heal
 - Composer
 - Linux
 - cPanel
+
+---
+
+## 🚀 Current Focus
+
+- Laravel Enterprise Application Development
+- REST API Design & Integration
+- Workflow Automation Systems
+- Task & Workforce Management Platforms
+- Payment & Reporting Modules
+- Secure RBAC Architecture
 
 ---
 
@@ -97,11 +106,16 @@ Git • GitHub • Composer • Postman
 
 ## 📜 Certifications
 
-* Micro1 Certified Developer
-* Google Cybersecurity Professional Certificate
-* CCNA
-* ITIL v4 Fundamentals
-* OPSWAT ICIP
+### Software Development
+- Micro1 Certified Developer
+
+### Security & Infrastructure
+- Google Cybersecurity Professional Certificate
+- OPSWAT ICIP (Infrastructure Cybersecurity)
+- CCNA (Cisco Certified Network Associate)
+
+### IT Service Management
+- ITIL 4 Foundation
 
 ---
 
