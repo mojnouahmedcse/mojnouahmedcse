@@ -6,6 +6,43 @@ Results-driven Full Stack PHP Developer with expertise in Laravel, CodeIgniter, 
 
 I specialize in building workflow automation systems, e-commerce platforms, healthcare management software, CMS solutions, and secure database-driven applications.
 
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mojnouahmedcse&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mojnouahmedcse&layout=compact)
+
+---
+
+## 💻 Technical Skills
+
+### Backend
+- PHP
+- Laravel
+- CodeIgniter
+- REST API Development
+
+### Frontend
+- JavaScript
+- jQuery
+- HTML5
+- CSS3
+- Bootstrap
+- Tailwind CSS
+
+### Database
+- MySQL
+
+### Tools & Platforms
+- Git
+- GitHub
+- Composer
+- Linux
+- cPanel
+
 ---
 
 ## 🚀 Featured Projects
