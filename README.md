@@ -1,6 +1,6 @@
 # Hi, I'm MD KUTUB UDDIN 👋
 
-### Lead Full Stack PHP Developer | Laravel Developer | Software Engineer
+### Lead Full Stack PHP Developer | Laravel Specialist | REST API Developer | Software Engineer
 
 Results-driven Full Stack PHP Developer with expertise in Laravel, CodeIgniter, PHP, MySQL, JavaScript, REST APIs, and enterprise web applications.
 
