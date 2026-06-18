@@ -1,4 +1,4 @@
-# Hi, I'm MD KUTUB UDDIN 👋
+# Hi, I'm MD KUTUB UDDIN
 
 ### Lead Full Stack PHP Developer | Laravel Specialist | REST API Developer | Software Engineer
 
@@ -9,7 +9,7 @@ I specialize in building workflow automation systems, e-commerce platforms, heal
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mojnouahmedcse&show_icons=true)
 
@@ -43,7 +43,7 @@ I specialize in building workflow automation systems, e-commerce platforms, heal
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 - Laravel Enterprise Application Development
 - REST API Design & Integration
@@ -54,7 +54,7 @@ I specialize in building workflow automation systems, e-commerce platforms, heal
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### VTASK – Virtual Task Management System
 
@@ -104,7 +104,7 @@ Git • GitHub • Composer • Postman
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 ### Software Development
 - Micro1 Certified Developer
@@ -119,7 +119,7 @@ Git • GitHub • Composer • Postman
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 Portfolio: https://resume.iwebtechnology.net
 
