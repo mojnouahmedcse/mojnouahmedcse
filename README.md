@@ -15,7 +15,7 @@ I specialize in building workflow automation systems, e-commerce platforms, heal
 
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 
 ### Backend
 - PHP
@@ -81,26 +81,6 @@ Online grocery and daily essentials marketplace with inventory management, order
 **Tech Stack:** CodeIgniter, PHP, MySQL, JavaScript, Bootstrap
 
 🔗 https://zazabar.com.bd
-
----
-
-## 🛠 Technical Skills
-
-### Backend
-
-Laravel • PHP • CodeIgniter • REST API • MVC • OOP
-
-### Frontend
-
-HTML5 • CSS3 • JavaScript • Bootstrap • Tailwind CSS
-
-### Database
-
-MySQL • Database Design • Query Optimization
-
-### Tools
-
-Git • GitHub • Composer • Postman
 
 ---
 
